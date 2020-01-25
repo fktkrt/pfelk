@@ -5,6 +5,7 @@ You can view installation guide guide on [3ilson.org YouTube Channel](https://ww
 
 
 ![Version badge](https://img.shields.io/badge/ELK-7.5.0-blue.svg)
+[![Build Status](https://travis-ci.org/fktkrt/pfelk.svg?branch=master)](https://travis-ci.org/fktkrt/pfelk)
 
 ### Prerequisites
 - Ubuntu Server v18.04+
