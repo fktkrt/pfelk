@@ -18,8 +18,8 @@ install:
 
 before_script:
   # Build images
-  - docker-compose build
   - cd docker-pfelk/
+  - docker-compose build
 
 script:
   # Compose
