@@ -24,7 +24,6 @@ before_script:
 script:
   # Compose
   - docker-compose up -d
-  - .travis/run-tests.sh
   - docker-compose ps
   - docker-compose logs elasticsearch
   - docker-compose logs kibana
