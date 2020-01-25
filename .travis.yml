@@ -9,6 +9,7 @@ env:
 before_install:
   - sudo apt-get update
   - sudo apt-get install -y expect jq
+  - cd docker-pfelk/
 
 install:
   # Install Docker Compose
